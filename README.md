@@ -1,4 +1,4 @@
-# DOCUMENTACION
+# DOCUMENTACION ![]nombre dekaimagen
 
 ## INTRODUCCION
 
@@ -8,7 +8,7 @@ Hola👋, mi nombre es Pedro María Dávila Requena y soy estudiante  de 2º del
 
   - Actualmente estoy cursando el 2º curso de Desarrollador de Aplicaciones Multiplataforma (DAM).
   - Interesado sobretodo en HTMl, Java y Phyton.
-  - 
+    
 
 ## FORMACIÓN ACADÉMICA 📚
 
@@ -38,10 +38,11 @@ Hola👋, mi nombre es Pedro María Dávila Requena y soy estudiante  de 2º del
     - Visual Studio Code
     - Xampp
     - InfinityFree
+    
 ## CONTACTO 📫
 
     1. Email: pedrodavilarequena@gmail.com
-    2. 
+    
 
 ## Gracias por pasarte por aquí 🙌
 
