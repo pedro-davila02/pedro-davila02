@@ -38,6 +38,12 @@ Hola👋, mi nombre es Pedro María Dávila Requena y soy estudiante  de 2º del
     - Visual Studio Code
     - Xampp
     - InfinityFree
+    - Figma
+    - Canva
+    - Prezi 
+    - PowerPoint
+    - Word
+    - Excel
     
 ## CONTACTO 📫
 
