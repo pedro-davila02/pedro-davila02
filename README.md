@@ -47,8 +47,9 @@ Hola👋, mi nombre es Pedro María Dávila Requena y soy estudiante  de 2º del
     
 ## CONTACTO 📫
 
-  -  Email: pedrodavilarequena@gmail.com
-  - ([Mi perfil de LinkedIn](https://www.linkedin.com/in/pedro-mar%C3%ADa-davila-requena-8b0760272/))
+  - Email: pedrodavilarequena@gmail.com
+  - ([Ver perfil de LinkedIn](https://www.linkedin.com/in/pedro-mar%C3%ADa-davila-requena-8b0760272/))
+  - ([Ver currículum](https://github.com/usuario/repositorio/raw/main/docs/DÁVILA.PEDRO_CEV_APPS.pdf))
     
 
 ## Gracias por pasarte por aquí 🙌
