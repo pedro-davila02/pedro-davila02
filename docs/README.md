@@ -2,12 +2,12 @@
 
 ## INTRODUCCION
 
-Hola👋, mi nombre es Pedro María Dávila Requena y soy estudiante  de 2º del grado de Desarrollador de aplicaciones multiplataforma (DAM) 💻. 
+Hola👋, mi nombre es Pedro María Dávila Requena y he terminado el grado de Desarrollador de aplicaciones multiplataforma (DAM) 💻. 
 
 ## SOBRE MÍ 🚀
 
-  - Actualmente estoy cursando el 2º curso de Desarrollador de Aplicaciones Multiplataforma (DAM).
   - Interesado sobretodo en HTML, Java y Phyton.
+  - He realizado mis prácticas en SmartBits
     
 
 ## FORMACIÓN ACADÉMICA 📚
@@ -44,6 +44,7 @@ Hola👋, mi nombre es Pedro María Dávila Requena y soy estudiante  de 2º del
     - PowerPoint
     - Word
     - Excel
+    - WordPress
     
 ## CONTACTO 📫
 
