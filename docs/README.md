@@ -15,7 +15,7 @@ Hola👋, mi nombre es Pedro María Dávila Requena y he terminado el grado de D
     1. Educacion Secundaria Obligatoria (ESO).
     2. Bachillerato
     3. Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
-     [CEV] (2023 - Presente)
+     [CEV] (2023 - 2025)
 
 
 ## HABILIDADES TÉCNICAS 🛠️
