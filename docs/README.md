@@ -27,7 +27,7 @@ Hola👋, mi nombre es Pedro María Dávila Requena y he terminado el grado de D
     - CSS
     - C#
     - XML
-    - Phyton
+    - Python
      
   ### Herramientas y entornos de trabajo:
   
